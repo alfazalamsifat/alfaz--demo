@@ -15,3 +15,6 @@ git status
 heyy
 git
 hello sird
+finally i do a change then do a merge
+>>>>>>> 
+>>>>>>> 4a21aba15c09c490c803d8aa291834273f503a87
