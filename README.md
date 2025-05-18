@@ -18,3 +18,5 @@ git
 =======
 hello sird
 >>>>>>> c6b8eaec02a797e86b0a2ec0c7c7925677ea8b6e
+finally i do a change then do a merge
+>>>>>>> 
