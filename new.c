@@ -5,6 +5,8 @@ int main()
    printf("Hello, World!\n");
    printf("This is a new file.\n");
     printf("This is a new line.\n");
-    printf("%d\n", 5);
+    int a;
+    scanf("%d", &a);
+    printf("%d\n",a);
     return 0;
 }
