@@ -16,5 +16,9 @@ heyy
 git
 hello sird
 finally i do a change then do a merge
+<<<<<<< HEAD
 >>>>>>> 
 >>>>>>> 4a21aba15c09c490c803d8aa291834273f503a87
+=======
+
+>>>>>>> 9381934b71637b6f638507de7ada2ff2f4456aa8
